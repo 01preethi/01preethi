@@ -53,7 +53,7 @@
 
 ## 🌐 Connect With Me
 
-📧 **Email:** preethimuthu018@example.com  
+📧 **Email:** preethimuthu018@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/preethi-muthu](https://www.linkedin.com/in/preethimuthu8)  
 🖥️ **GitHub:** [github.com/01preethi](https://github.com/01preethi)  
 
