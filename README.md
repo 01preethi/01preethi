@@ -5,7 +5,8 @@
 
 💡 I like exploring new technologies, improving my coding skills, and finding simple ways to solve real-world problems.
 
-💫 About Me
+
+## 💫 About Me
 
 🔭 Currently focused on developing Java-based full stack applications.
 
@@ -16,6 +17,7 @@
 🤝 Always open to collaborating on Java projects or open-source contributions.
 
 🚀 I believe every project is an opportunity to learn and grow as a developer.
+
 
 
 ## 🛠️ Tech Stack
